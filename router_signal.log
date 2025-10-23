@@ -1,0 +1,105 @@
+2025-10-23 17:43:15,275 - INFO - Chrome WebDriver initialized successfully
+2025-10-23 17:43:16,363 - INFO - Navigating to http://192.168.1.1/login.html
+2025-10-23 17:43:19,401 - INFO - Login form elements found
+2025-10-23 17:43:21,631 - INFO - Credentials entered, clicking login button
+2025-10-23 17:43:22,546 - INFO - Login button clicked
+2025-10-23 17:43:24,584 - INFO - Login successful - redirected to: http://zyxel.home/index.html
+2025-10-23 17:43:24,596 - INFO - On homepage, navigating through APP MODULE menu
+2025-10-23 17:43:24,751 - INFO - Clicked APP MODULE menu item
+2025-10-23 17:43:26,833 - INFO - Clicked Network Information module
+2025-10-23 17:43:27,023 - INFO - Network Information page loaded successfully
+2025-10-23 17:43:29,500 - INFO - Playing audio: excellent
+2025-10-23 17:43:32,779 - INFO - Playing audio: good
+2025-10-23 17:43:36,071 - INFO - Playing audio: good
+2025-10-23 17:43:39,360 - INFO - Playing audio: good
+2025-10-23 17:43:42,659 - INFO - Playing audio: good
+2025-10-23 17:43:45,926 - INFO - Playing audio: excellent
+2025-10-23 17:43:49,191 - INFO - Playing audio: excellent
+2025-10-23 17:43:50,059 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/b7990bb33107051575408dd6c6d2b339
+2025-10-23 17:45:08,340 - INFO - Chrome WebDriver initialized successfully
+2025-10-23 17:45:09,333 - INFO - Navigating to http://192.168.1.1/login.html
+2025-10-23 17:45:12,370 - INFO - Login form elements found
+2025-10-23 17:45:14,539 - INFO - Credentials entered, clicking login button
+2025-10-23 17:45:15,283 - INFO - Login button clicked
+2025-10-23 17:45:17,324 - INFO - Login successful - redirected to: http://zyxel.home/index.html
+2025-10-23 17:45:17,332 - INFO - On homepage, navigating through APP MODULE menu
+2025-10-23 17:45:17,430 - INFO - Clicked APP MODULE menu item
+2025-10-23 17:45:19,558 - INFO - Clicked Network Information module
+2025-10-23 17:45:20,297 - INFO - Network Information page loaded successfully
+2025-10-23 17:45:22,628 - INFO - Playing audio: good
+2025-10-23 17:45:31,903 - INFO - Playing audio: good
+2025-10-23 17:45:41,225 - INFO - Playing audio: excellent
+2025-10-23 17:45:50,559 - INFO - Playing audio: excellent
+2025-10-23 17:45:59,863 - INFO - Playing audio: excellent
+2025-10-23 17:46:09,149 - INFO - Playing audio: excellent
+2025-10-23 17:46:18,530 - INFO - Playing audio: excellent
+2025-10-23 17:46:21,449 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/623bc83f7383335582dab7e4a439242c
+2025-10-23 19:01:02,188 - INFO - Chrome WebDriver initialized successfully
+2025-10-23 19:01:03,161 - INFO - Navigating to http://192.168.1.1/login.html
+2025-10-23 19:01:06,207 - INFO - Login form elements found
+2025-10-23 19:01:08,428 - INFO - Credentials entered, clicking login button
+2025-10-23 19:01:09,166 - INFO - Login button clicked
+2025-10-23 19:01:11,223 - INFO - Login successful - redirected to: http://zyxel.home/index.html
+2025-10-23 19:01:11,241 - INFO - On homepage, navigating through APP MODULE menu
+2025-10-23 19:01:11,369 - INFO - Clicked APP MODULE menu item
+2025-10-23 19:01:13,496 - INFO - Clicked Network Information module
+2025-10-23 19:01:13,627 - INFO - Network Information page loaded successfully
+2025-10-23 19:01:16,040 - INFO - Playing audio: good
+2025-10-23 19:01:21,369 - INFO - Playing audio: excellent
+2025-10-23 19:01:26,676 - INFO - Playing audio: bad
+2025-10-23 19:01:31,992 - INFO - Playing audio: good
+2025-10-23 19:01:38,450 - INFO - Playing audio: bad
+2025-10-23 19:01:43,810 - INFO - Playing audio: good
+2025-10-23 19:01:49,154 - INFO - Playing audio: good
+2025-10-23 19:01:54,499 - INFO - Playing audio: good
+2025-10-23 19:01:59,810 - INFO - Playing audio: good
+2025-10-23 19:02:05,125 - INFO - Playing audio: good
+2025-10-23 19:02:10,486 - INFO - Playing audio: good
+2025-10-23 19:02:15,877 - INFO - Playing audio: good
+2025-10-23 19:02:21,304 - INFO - Playing audio: good
+2025-10-23 19:02:26,655 - INFO - Playing audio: good
+2025-10-23 19:02:31,966 - INFO - Playing audio: good
+2025-10-23 19:02:37,333 - INFO - Playing audio: good
+2025-10-23 19:02:42,708 - INFO - Playing audio: good
+2025-10-23 19:02:48,062 - INFO - Playing audio: good
+2025-10-23 19:02:53,389 - INFO - Playing audio: good
+2025-10-23 19:02:54,448 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/9cf61180cb08247a76f4a471d8cda4c5
+2025-10-23 19:25:20,641 - INFO - Chrome WebDriver initialized successfully
+2025-10-23 19:25:21,192 - INFO - Navigating to http://192.168.1.1/login.html
+2025-10-23 19:25:24,246 - INFO - Login form elements found
+2025-10-23 19:25:26,502 - INFO - Credentials entered, clicking login button
+2025-10-23 19:25:27,250 - INFO - Login button clicked
+2025-10-23 19:25:29,311 - INFO - Login successful - redirected to: http://zyxel.home/index.html
+2025-10-23 19:26:07,166 - INFO - Chrome WebDriver initialized successfully
+2025-10-23 19:26:07,626 - INFO - Navigating to http://192.168.1.1/login.html
+2025-10-23 19:26:10,689 - INFO - Login form elements found
+2025-10-23 19:26:12,943 - INFO - Credentials entered, clicking login button
+2025-10-23 19:26:13,817 - INFO - Login button clicked
+2025-10-23 19:26:15,865 - INFO - Login successful - redirected to: http://zyxel.home/index.html
+2025-10-23 19:26:15,879 - INFO - On homepage, navigating through APP MODULE menu
+2025-10-23 19:26:16,000 - INFO - Clicked APP MODULE menu item
+2025-10-23 19:26:18,116 - INFO - Clicked Network Information module
+2025-10-23 19:26:18,744 - INFO - Network Information page loaded successfully
+2025-10-23 19:26:21,237 - INFO - Playing audio: good
+2025-10-23 19:26:26,708 - INFO - Playing audio: good
+2025-10-23 19:26:32,096 - INFO - Playing audio: good
+2025-10-23 19:26:37,454 - INFO - Playing audio: good
+2025-10-23 19:26:42,959 - INFO - Playing audio: excellent
+2025-10-23 19:26:48,346 - INFO - Playing audio: good
+2025-10-23 19:26:53,709 - INFO - Playing audio: good
+2025-10-23 19:26:59,088 - INFO - Playing audio: good
+2025-10-23 19:27:04,483 - INFO - Playing audio: good
+2025-10-23 19:27:09,928 - INFO - Playing audio: good
+2025-10-23 19:33:37,241 - INFO - Chrome WebDriver initialized successfully
+2025-10-23 19:33:37,750 - INFO - Navigating to http://192.168.1.1/login.html
+2025-10-23 19:33:40,804 - INFO - Login form elements found
+2025-10-23 19:33:43,073 - INFO - Credentials entered, clicking login button
+2025-10-23 19:33:44,021 - INFO - Login button clicked
+2025-10-23 19:33:46,087 - INFO - Login successful - redirected to: http://zyxel.home/index.html
+2025-10-23 19:33:46,098 - INFO - On homepage, navigating through APP MODULE menu
+2025-10-23 19:33:46,255 - INFO - Clicked APP MODULE menu item
+2025-10-23 19:33:48,352 - INFO - Clicked Network Information module
+2025-10-23 19:33:48,876 - INFO - Network Information page loaded successfully
+2025-10-23 19:33:51,264 - INFO - Playing audio: good
+2025-10-23 19:33:56,595 - INFO - Playing audio: good
+2025-10-23 19:33:57,513 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/66087f4fef9bc536345d1ad77860b3bd
